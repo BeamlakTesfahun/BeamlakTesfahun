@@ -1,6 +1,6 @@
 ## Hi, I'm Beamlak👋
 
-Welcome to my GitHub profile! I’m a passionate backend developer currently working on backend services using **Node.js** and **Express.js**.
+Welcome to my GitHub profile! I’m a backend developer currently working on backend services using **Node.js** and **Express.js**.
 
 ## 🚀 Technologies & Tools
 
