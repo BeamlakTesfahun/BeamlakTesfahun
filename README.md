@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Beamlak👋
 
-<!--
-**BeamlakTesfahun/BeamlakTesfahun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a passionate backend developer currently working on backend services using **Node.js** and **Express.js**.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend Development**: Node.js, Express.js
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Cloud Services**: AWS, Azure, Zadara
+- **Version Control**: Git, GitHub
+- **CI/CD**: GitHub Actions
+- **Other**: Docker, Nginx, Redis
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/beamlaktesfahun)
+- Email: beamlaktsahilu@gmail.com
+
