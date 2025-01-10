@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a backend developer currently working on bac
 ## 🚀 Technologies & Tools
 
 - **Backend Development**: Node.js, Express.js
-- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Databases**: MongoDB, MySQL, PostgreSQL
 - **Cloud Services**: AWS, Azure, Zadara
 - **Version Control**: Git, GitHub
 - **CI/CD**: GitHub Actions
