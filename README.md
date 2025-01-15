@@ -13,5 +13,5 @@ Welcome to my GitHub profile! I’m a backend developer currently working on bac
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/beamlaktesfahun)
-- Email: beamlaktsahilu@gmail.com
+- [Email](beamlaktsahilu@gmail.com)
 
